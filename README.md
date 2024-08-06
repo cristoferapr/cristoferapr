@@ -1,4 +1,4 @@
-## Full-stack Developer | 4Geeks Academy Graduate | PUCV Student
+## Full-stack Developer | Computer Science PUCV Student
 
 👋 Welcome to my GitHub profile! I'm a passionate full-stack developer, having graduated from 4Geeks Academy. I am pursuing my studies in Computer Science at the Pontifical Catholic University of Valparaíso (PUCV).
 
