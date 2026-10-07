@@ -1,24 +1,28 @@
-## Full-stack Developer | Computer Science PUCV Student
+# Cristofer Pizarro Reyes
 
-👋 Welcome to my GitHub profile! I'm a passionate full-stack developer, having graduated from 4Geeks Academy. I am pursuing my studies in Computer Science at the Pontifical Catholic University of Valparaíso (PUCV).
+**Ingeniero de IA (AI Engineer)** · Agentes, RAG y evaluación de LLMs en producción · Santiago, Chile
 
-🔭 I'm actively seeking new opportunities to contribute my skills and knowledge in software development. If you're interested in collaborating or working together, feel free to reach out to me at cristoferpizarro.r@gmail.com.
+Construyo sistemas de IA generativa para producción y mido si realmente funcionan.
+Hoy trabajo en el equipo de IA de **AFP Habitat** (vía Getdata), en el sector financiero regulado:
 
-Let's connect and create something amazing together!
+- Asistentes RAG (uno de alcance nacional) con respuestas citadas y evaluación sistemática de su calidad.
+- Una plataforma multiagente que acompaña el ciclo de desarrollo de software, de la historia de usuario al QA.
+- Un agente de código corporativo con observabilidad y auditoría de uso.
+- Una API serverless sobre AWS que sirve datos a más de 2 millones de clientes.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristoferapr&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+Casi todo ese trabajo es privado por confidencialidad; aquí publico trabajo propio.
 
-<!--
-**cristoferapr/cristoferapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Proyecto destacado
+**[ragcademic](https://github.com/cristoferapr/ragcademic)** — mi tesis de Ingeniería Civil Informática
+(PUCV, 2026): un sistema RAG híbrido (FAISS + BM25, reranker, HyDE) y **ARQS**, una métrica para evaluar
+la calidad de sus respuestas con un panel de jueces LLM de 3 proveedores.
 
-Here are some ideas to get you started:
+## Stack
+`Python` `Java (Spring Boot)` `TypeScript` `LangGraph` `LangChain` `Amazon Bedrock` `Langfuse`
+`AWS (Lambda · EKS · CloudFormation)` `Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formación
+- Ingeniero Civil Informático — Pontificia Universidad Católica de Valparaíso (2026)
+- Diploma de Postítulo en Inteligencia Artificial — Universidad de Chile (2026)
+
+[LinkedIn](https://www.linkedin.com/in/cristoferapr/)
